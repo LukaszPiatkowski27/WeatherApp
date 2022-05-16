@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherMaterialDesign</string>
+    <string name="degree">°</string>
+    <string name="select_location">SELECT LOCATION</string>
+    <string name="atmospheric_pressure">ATMOSPHERIC PRESSURE:</string>
+    <string name="wind_speed">WIND SPEED:</string>
+    <string name="feels_like_temperature">FEELS LIKE TEMPERATURE:</string>
+</resources>
